@@ -410,7 +410,7 @@ Special thanks to Amal Hassan.</string>
                     </connections>
                 </panGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="183" y="-1523"/>
+            <point key="canvasLocation" x="-23" y="-1504"/>
         </scene>
         <!--Photo View Controller-->
         <scene sceneID="ya6-0T-5Dc">
@@ -424,7 +424,7 @@ Special thanks to Amal Hassan.</string>
                                 <rect key="frame" x="0.0" y="0.0" width="768" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="step1 TOP BAR.tiff" id="kd3-mE-bbo">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="step1-TOP-BAR.png" id="kd3-mE-bbo">
                                         <rect key="frame" x="0.0" y="0.0" width="768" height="91"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     </imageView>
@@ -432,11 +432,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="30" y="38" width="35" height="28"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
-                                        <state key="normal" title="Button" image="home icon.tiff">
+                                        <state key="normal" title="Button" image="home-icon.png">
                                             <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
-                                        <state key="highlighted" image="home icon tapped.png">
+                                        <state key="highlighted" image="home-icon-tapped.png">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
@@ -490,7 +490,7 @@ Special thanks to Amal Hassan.</string>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nOO-Qw-oca" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1343" y="-1504"/>
+            <point key="canvasLocation" x="1143" y="-1504"/>
         </scene>
         <!--Like Photo View Controller-->
         <scene sceneID="TVR-I8-Yft">
@@ -819,7 +819,7 @@ Special thanks to Amal Hassan.</string>
                                 <rect key="frame" x="0.0" y="0.0" width="768" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="step 3 TOP BAR.tiff" id="1XE-eE-UjZ">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="step-3-TOP-BAR.png" id="1XE-eE-UjZ">
                                         <rect key="frame" x="0.0" y="0.0" width="768" height="91"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     </imageView>
@@ -828,11 +828,11 @@ Special thanks to Amal Hassan.</string>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                         <inset key="contentEdgeInsets" minX="20" minY="5" maxX="20" maxY="5"/>
-                                        <state key="normal" image="question icon.tiff">
+                                        <state key="normal" image="question-icon.png">
                                             <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
-                                        <state key="highlighted" image="question icon tapped.png">
+                                        <state key="highlighted" image="question-icon-tapped.png">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
@@ -843,11 +843,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="35" y="38" width="35" height="28"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
-                                        <state key="normal" title="Button" image="home icon.tiff">
+                                        <state key="normal" title="Button" image="home-icon.png">
                                             <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
-                                        <state key="highlighted" image="home icon tapped.png">
+                                        <state key="highlighted" image="home-icon-tapped.png">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
@@ -881,7 +881,7 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="230" y="804" width="139" height="46"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
-                                        <state key="normal" image="redo button.tiff">
+                                        <state key="normal" image="redo-button.png">
                                             <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -896,7 +896,7 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="400" y="804" width="139" height="46"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
-                                        <state key="normal" image="submit button.tiff">
+                                        <state key="normal" image="submit-button.png">
                                             <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -919,7 +919,7 @@ Special thanks to Amal Hassan.</string>
                                 <rect key="frame" x="85" y="303" width="597" height="418"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="step 3 message box.tiff" id="lDS-Sr-Rgx">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="step-3-message-box.png" id="lDS-Sr-Rgx">
                                         <rect key="frame" x="0.0" y="0.0" width="597" height="418"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
@@ -946,7 +946,7 @@ Special thanks to Amal Hassan.</string>
                                 <rect key="frame" x="0.0" y="-522" width="768" height="522"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="top area backgorund.tiff" id="Q4a-SC-82L">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="top-area-background.png" id="Q4a-SC-82L">
                                         <rect key="frame" x="0.0" y="0.0" width="768" height="524"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     </imageView>
@@ -961,11 +961,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 6.tiff" id="bcO-ZY-o0h">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-6.png" id="bcO-ZY-o0h">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 31.tiff" id="LAS-YU-7a2">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-31.png" id="LAS-YU-7a2">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -976,11 +976,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="256" y="0.0" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 14.tiff" id="pDw-lw-YNk">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-14.png" id="pDw-lw-YNk">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 16.tiff" id="JTX-Fp-5NH">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-16.png" id="JTX-Fp-5NH">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -991,11 +991,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="512" y="0.0" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 11.tiff" id="PSm-1F-IIK">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-11.png" id="PSm-1F-IIK">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 20.tiff" id="etQ-ZQ-Y1k">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-20.png" id="etQ-ZQ-Y1k">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -1006,11 +1006,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="0.0" y="251" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 13.tiff" id="k4g-NG-fTX">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-13.png" id="k4g-NG-fTX">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 10.tiff" id="JAg-GU-2GX">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-10.png" id="JAg-GU-2GX">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -1021,11 +1021,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="256" y="251" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 19.tiff" id="RDu-pO-9yG">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-19.png" id="RDu-pO-9yG">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 12.tiff" id="oSb-2r-ZYt">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-12.png" id="oSb-2r-ZYt">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -1036,11 +1036,11 @@ Special thanks to Amal Hassan.</string>
                                         <rect key="frame" x="512" y="251" width="256" height="251"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 17.tiff" id="Mab-Li-bXm">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-17.png" id="Mab-Li-bXm">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer 30.tiff" id="NOf-AZ-2ij">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Layer-30.png" id="NOf-AZ-2ij">
                                                 <rect key="frame" x="0.0" y="0.0" width="256" height="251"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             </imageView>
@@ -1090,18 +1090,6 @@ Special thanks to Amal Hassan.</string>
         </scene>
     </scenes>
     <resources>
-        <image name="Layer 10.tiff" width="509" height="511"/>
-        <image name="Layer 11.tiff" width="518" height="509"/>
-        <image name="Layer 12.tiff" width="511" height="512"/>
-        <image name="Layer 13.tiff" width="509" height="513"/>
-        <image name="Layer 14.tiff" width="513" height="508"/>
-        <image name="Layer 16.tiff" width="512" height="517"/>
-        <image name="Layer 17.tiff" width="518" height="513"/>
-        <image name="Layer 19.tiff" width="512" height="513"/>
-        <image name="Layer 20.tiff" width="518" height="511"/>
-        <image name="Layer 30.tiff" width="518" height="512"/>
-        <image name="Layer 31.tiff" width="508" height="515"/>
-        <image name="Layer 6.tiff" width="509" height="509"/>
         <image name="Layer-10.png" width="509" height="511"/>
         <image name="Layer-11.png" width="518" height="509"/>
         <image name="Layer-12.png" width="511" height="512"/>
@@ -1116,6 +1104,8 @@ Special thanks to Amal Hassan.</string>
         <image name="Layer-6.png" width="509" height="509"/>
         <image name="home icon tapped.png" width="67" height="56"/>
         <image name="home icon.tiff" width="67" height="56"/>
+        <image name="home-icon-tapped.png" width="67" height="56"/>
+        <image name="home-icon.png" width="67" height="56"/>
         <image name="info button CLICKED.png" width="220" height="179"/>
         <image name="info button.png" width="220" height="179"/>
         <image name="info panel logo.tiff" width="567" height="476"/>
@@ -1124,17 +1114,19 @@ Special thanks to Amal Hassan.</string>
         <image name="info-panel.png" width="1536" height="1195"/>
         <image name="okay button.tiff" width="277" height="92"/>
         <image name="photo.png" width="118" height="118"/>
-        <image name="question icon tapped.png" width="60" height="56"/>
         <image name="question icon.tiff" width="60" height="56"/>
-        <image name="redo button.tiff" width="277" height="92"/>
+        <image name="question-icon-tapped.png" width="60" height="56"/>
+        <image name="question-icon.png" width="60" height="56"/>
+        <image name="redo-button.png" width="277" height="92"/>
         <image name="reshoot button.tiff" width="277" height="92"/>
         <image name="step 2 TOP BAR.tiff" width="1536" height="183"/>
         <image name="step 3 TOP BAR.tiff" width="1536" height="183"/>
         <image name="step 3 message box.tiff" width="1193" height="835"/>
-        <image name="step1 TOP BAR.tiff" width="1536" height="182"/>
+        <image name="step-3-TOP-BAR.png" width="1536" height="183"/>
+        <image name="step-3-message-box.png" width="1193" height="835"/>
         <image name="step1 home icon.tiff" width="16" height="16"/>
-        <image name="submit button.tiff" width="277" height="92"/>
-        <image name="top area backgorund.tiff" width="1536" height="1030"/>
+        <image name="step1-TOP-BAR.png" width="1536" height="182"/>
+        <image name="submit-button.png" width="277" height="92"/>
         <image name="top-area-background.png" width="1536" height="1030"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

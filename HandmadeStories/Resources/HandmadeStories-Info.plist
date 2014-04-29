@@ -39,5 +39,14 @@
 		<string>trade_gothic_condensed_no_18.otf</string>
 		<string>ultra.otf</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>db-7rmbu9y4al1w5ub</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
