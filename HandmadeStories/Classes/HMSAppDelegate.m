@@ -12,8 +12,9 @@
 @implementation HMSAppDelegate
 
 - (void)dropboxConnectionBuild {
-  DBSession *dbSession = [[DBSession alloc] initWithAppKey:@"7rmbu9y4al1w5ub"
-                                                 appSecret:@"x9j994lr4sny6fq"
+  // "Handmade Stories" app under Lisa Wood's dropbox account
+  DBSession *dbSession = [[DBSession alloc] initWithAppKey:@"zg24chusfngrojm"
+                                                 appSecret:@"pogrpd3cjnn13do"
                                                       root:kDBRootAppFolder];
   [DBSession setSharedSession:dbSession];
 }
