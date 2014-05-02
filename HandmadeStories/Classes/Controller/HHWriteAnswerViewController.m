@@ -61,21 +61,7 @@
                          _bottomFinishView.frame = CGRectMake(0, 522, _bottomFinishView.frame.size.width, _bottomFinishView.frame.size.height);
                      }
                      completion:^(BOOL finished){
-                         [UIView animateWithDuration:.2f
-                                          animations:^(){
-                                              _topFinishView.frame = CGRectMake(0, -20, _topFinishView.frame.size.width, _topFinishView.frame.size.height);
-                                              _bottomFinishView.frame = CGRectMake(0, 542, _bottomFinishView.frame.size.width, _bottomFinishView.frame.size.height);
-                                          }
-                                          completion:^(BOOL finished){
-                                              [UIView animateWithDuration:.2f
-                                                               animations:^(){
-                                                                   _topFinishView.frame = CGRectMake(0, 0, _topFinishView.frame.size.width, _topFinishView.frame.size.height);
-                                                                   _bottomFinishView.frame = CGRectMake(0, 522, _bottomFinishView.frame.size.width, _bottomFinishView.frame.size.height);
-                                                               }
-                                                               completion:^(BOOL finished){
-                                                                   [self performSegueWithIdentifier:@"MainScreen" sender:nil];
-                                                               }];
-                                          }];
+                       [self performSegueWithIdentifier:@"MainScreen" sender:nil];
                      }];
 }
 
