@@ -11,6 +11,12 @@
 
 @implementation HMSAppDelegate
 
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+  [[UIApplication sharedApplication] setStatusBarHidden:YES];
+  [self dropboxConnectionBuild];
+  return YES;
+}
+
 - (void)dropboxConnectionBuild {
   // "Handmade Stories" app under Lisa Wood's dropbox account
   DBSession *dbSession = [[DBSession alloc] initWithAppKey:@"zg24chusfngrojm"
@@ -29,13 +35,6 @@
   }
   // Add whatever other url handling code your app requires here
   return NO;
-}
-
-- (BOOL)application:(UIApplication *)application
-    didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-  [self dropboxConnectionBuild];
-  //    [[DBSession sharedSession] unlinkAll];
-  return YES;
 }
 
 @end
